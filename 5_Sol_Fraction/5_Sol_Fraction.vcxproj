@@ -24,6 +24,7 @@
     <ProjectGuid>{8ac4a0e2-3458-4875-86d6-ab7a39df24b9}</ProjectGuid>
     <RootNamespace>My5SolFraction</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>05_Sol_Fraction</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

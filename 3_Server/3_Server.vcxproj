@@ -24,6 +24,7 @@
     <ProjectGuid>{90829667-1e6a-4053-9939-092e9f9d1ea8}</ProjectGuid>
     <RootNamespace>My3Server</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>03_Server</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

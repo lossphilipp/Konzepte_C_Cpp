@@ -24,6 +24,7 @@
     <ProjectGuid>{8a7af26b-7f86-4de5-93aa-37de7cbc3340}</ProjectGuid>
     <RootNamespace>My2SortingAlgo</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>02_SortingAlgo</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
